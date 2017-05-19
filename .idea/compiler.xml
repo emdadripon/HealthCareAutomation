@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Cigna" />
+        <module name="Common" />
+        <module name="LIJ" />
+        <module name="ObamaCare" />
+        <module name="UnitedHealthcare" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Cigna" target="1.8" />
+      <module name="Common" target="1.8" />
+      <module name="HeatlhCare" target="1.8" />
+      <module name="LIJ" target="1.8" />
+      <module name="ObamaCare" target="1.8" />
+      <module name="UnitedHealthcare" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
