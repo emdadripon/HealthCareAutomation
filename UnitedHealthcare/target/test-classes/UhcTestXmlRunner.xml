@@ -14,20 +14,25 @@
     <test name = "FireFox test">
         <parameter name="browserName" value="firefox"/>
         <classes>
+            <class name="employers.searchEmployers"/>
+            <class name="Home.home"/>
             <class name="uhcSearch.uhcLogin"/>
         </classes>
     </test>
     <test name = "Chrome test">
         <parameter name="browserName" value="chrome"/>
         <classes>
+            <class name="employers.searchEmployers"/>
+            <class name="Home.home"/>
             <class name="uhcSearch.uhcLogin"/>
         </classes>
     </test>
     <test name = "Safari test">
         <parameter name="browserName" value="firefox"/>
         <classes>
+            <class name="employers.searchEmployers"/>
+            <class name="Home.home"/>
             <class name="uhcSearch.uhcLogin"/>
         </classes>
     </test>
-
 </suite>

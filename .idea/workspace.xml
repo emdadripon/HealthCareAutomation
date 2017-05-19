@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3bee8566-f5f2-416a-835d-b0e9d8fb04c3" name="Default" comment="" />
+    <list default="true" id="3bee8566-f5f2-416a-835d-b0e9d8fb04c3" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Common/target/classes/Base/Config.class" afterPath="$PROJECT_DIR$/Common/target/classes/Base/Config.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UnitedHealthcare/target/classes/uhcHomePage/HomePage$1.class" afterPath="$PROJECT_DIR$/UnitedHealthcare/target/classes/uhcHomePage/HomePage$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UnitedHealthcare/target/classes/uhcHomePage/HomePage$2.class" afterPath="$PROJECT_DIR$/UnitedHealthcare/target/classes/uhcHomePage/HomePage$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UnitedHealthcare/target/classes/uhcHomePage/HomePage$3.class" afterPath="$PROJECT_DIR$/UnitedHealthcare/target/classes/uhcHomePage/HomePage$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UnitedHealthcare/target/classes/uhcHomePage/HomePage$4.class" afterPath="$PROJECT_DIR$/UnitedHealthcare/target/classes/uhcHomePage/HomePage$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UnitedHealthcare/target/classes/uhcHomePage/HomePage$5.class" afterPath="$PROJECT_DIR$/UnitedHealthcare/target/classes/uhcHomePage/HomePage$5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UnitedHealthcare/target/classes/uhcHomePage/HomePage.class" afterPath="$PROJECT_DIR$/UnitedHealthcare/target/classes/uhcHomePage/HomePage.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UnitedHealthcare/target/test-classes/Home/home.class" afterPath="$PROJECT_DIR$/UnitedHealthcare/target/test-classes/Home/home.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UnitedHealthcare/target/test-classes/employers/searchEmployers.class" afterPath="$PROJECT_DIR$/UnitedHealthcare/target/test-classes/employers/searchEmployers.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Common/src/main/java/Base/Config.java" afterPath="$PROJECT_DIR$/Common/src/main/java/Base/Config.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Common/src/main/java/utility/ExtentReport/ApplicationLog.java" afterPath="$PROJECT_DIR$/Common/src/main/java/utility/ExtentReport/ApplicationLog.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UnitedHealthcare/Extent-Report/Extent Report.html" afterPath="$PROJECT_DIR$/UnitedHealthcare/Extent-Report/Extent Report.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UnitedHealthcare/src/main/java/uhcHomePage/HomePage.java" afterPath="$PROJECT_DIR$/UnitedHealthcare/src/main/java/uhcHomePage/HomePage.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UnitedHealthcare/src/main/java/uhcIndividualsandFamilies/individualsandfamilies.java" afterPath="$PROJECT_DIR$/UnitedHealthcare/src/main/java/uhcIndividualsandFamilies/individualsandfamilies.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UnitedHealthcare/src/test/java/Home/home.java" afterPath="$PROJECT_DIR$/UnitedHealthcare/src/test/java/Home/home.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UnitedHealthcare/src/test/java/employers/searchEmployers.java" afterPath="$PROJECT_DIR$/UnitedHealthcare/src/test/java/employers/searchEmployers.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UnitedHealthcare/src/test/resources/UhcTestXmlRunner.xml" afterPath="$PROJECT_DIR$/UnitedHealthcare/src/test/resources/UhcTestXmlRunner.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UnitedHealthcare/target/test-classes/UhcTestXmlRunner.xml" afterPath="$PROJECT_DIR$/UnitedHealthcare/target/test-classes/UhcTestXmlRunner.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UnitedHealthcare/test-output/Default Suite/HeatlhCare.html" afterPath="$PROJECT_DIR$/UnitedHealthcare/test-output/Default Suite/HeatlhCare.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UnitedHealthcare/test-output/Default Suite/HeatlhCare.xml" afterPath="$PROJECT_DIR$/UnitedHealthcare/test-output/Default Suite/HeatlhCare.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UnitedHealthcare/test-output/emailable-report.html" afterPath="$PROJECT_DIR$/UnitedHealthcare/test-output/emailable-report.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UnitedHealthcare/test-output/index.html" afterPath="$PROJECT_DIR$/UnitedHealthcare/test-output/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UnitedHealthcare/test-output/junitreports/TEST-uhcSearch.uhcLogin.xml" afterPath="$PROJECT_DIR$/UnitedHealthcare/test-output/junitreports/TEST-uhcSearch.uhcLogin.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UnitedHealthcare/test-output/old/Default Suite/methods-alphabetical.html" afterPath="$PROJECT_DIR$/UnitedHealthcare/test-output/old/Default Suite/methods-alphabetical.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UnitedHealthcare/test-output/old/Default Suite/methods.html" afterPath="$PROJECT_DIR$/UnitedHealthcare/test-output/old/Default Suite/methods.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UnitedHealthcare/test-output/testng-results.xml" afterPath="$PROJECT_DIR$/UnitedHealthcare/test-output/testng-results.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/Generic/target/" />
@@ -16,6 +44,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/HeatlhCare$_Users_smhoque_IdeaProjects_HeatlhCare_UnitedHealthcare_src_test_resources_UhcTestXmlRunner_xml.coverage" NAME="$PROJECT_DIR$/UnitedHealthcare/src/test/resources/UhcTestXmlRunner.xml Coverage Results" MODIFIED="1495223406160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -35,39 +66,18 @@
       <file leaf-file-name="UhcTestXmlRunner.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UnitedHealthcare/src/test/resources/UhcTestXmlRunner.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
-              <caret line="22" column="46" lean-forward="true" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
+            <state relative-caret-position="184">
+              <caret line="22" column="51" lean-forward="false" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HomePage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/UnitedHealthcare/src/main/java/uhcHomePage/HomePage.java">
+      <file leaf-file-name="individualsandfamilies.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UnitedHealthcare/src/main/java/uhcIndividualsandFamilies/individualsandfamilies.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="636">
-              <caret line="64" column="1" lean-forward="true" selection-start-line="64" selection-start-column="1" selection-end-line="64" selection-end-column="1" />
-              <folding>
-                <element signature="e#932#933#0" expanded="true" />
-                <element signature="e#959#960#0" expanded="true" />
-                <element signature="e#1019#1020#0" expanded="true" />
-                <element signature="e#1064#1065#0" expanded="true" />
-                <element signature="e#1111#1112#0" expanded="true" />
-                <element signature="e#1143#1144#0" expanded="true" />
-                <element signature="e#1189#1190#0" expanded="true" />
-                <element signature="e#1220#1221#0" expanded="true" />
-                <element signature="e#1269#1270#0" expanded="true" />
-                <element signature="e#1303#1304#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="findadoctor.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/UnitedHealthcare/src/main/java/uhcFindaDoctor/findadoctor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="120">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -76,8 +86,28 @@
       <file leaf-file-name="uhcLogin.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UnitedHealthcare/src/test/java/uhcSearch/uhcLogin.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+            <state relative-caret-position="105">
+              <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HomePage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UnitedHealthcare/src/main/java/uhcHomePage/HomePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="48" column="3" lean-forward="false" selection-start-line="48" selection-start-column="3" selection-end-line="51" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Config.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Common/src/main/java/Base/Config.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="45" column="48" lean-forward="false" selection-start-line="45" selection-start-column="48" selection-end-line="45" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -86,21 +116,9 @@
       <file leaf-file-name="home.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UnitedHealthcare/src/test/java/Home/home.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="14" column="2" lean-forward="true" selection-start-line="14" selection-start-column="2" selection-end-line="20" selection-end-column="5" />
+            <state relative-caret-position="165">
+              <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="searchEmployers.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/UnitedHealthcare/src/test/java/employers/searchEmployers.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -108,51 +126,39 @@
       <file leaf-file-name="ApplicationLog.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Common/src/main/java/utility/ExtentReport/ApplicationLog.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="150">
+              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestLogger.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Common/src/main/java/utility/ExtentReport/TestLogger.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ExtentTestUpdate.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Common/src/main/java/utility/ExtentReport/ExtentTestUpdate.java">
+      <file leaf-file-name="searchEmployers.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UnitedHealthcare/src/test/java/employers/searchEmployers.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="false" />
-                <element signature="e#519#520#0" expanded="false" />
-                <element signature="e#562#563#0" expanded="false" />
-                <element signature="e#646#647#0" expanded="false" />
-                <element signature="e#695#696#0" expanded="false" />
-              </folding>
+              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ExtentManager.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Common/src/main/java/utility/ExtentReport/ExtentManager.java">
+      <file leaf-file-name="Employers.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UnitedHealthcare/src/main/java/uhcEmployers/Employers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="9" column="3" lean-forward="false" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-              <folding>
-                <element signature="imports" expanded="false" />
-                <element signature="e#1144#1145#0" expanded="false" />
-                <element signature="e#1191#1192#0" expanded="false" />
-              </folding>
+            <state relative-caret-position="105">
+              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Home.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UnitedHealthcare/src/main/java/uhcHome/Home.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -165,6 +171,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -186,7 +195,6 @@
         <option value="$PROJECT_DIR$/LIJ/pom.xml" />
         <option value="$PROJECT_DIR$/Cigna/src/test/java/Perform/Regitration.java" />
         <option value="$PROJECT_DIR$/Cigna/src/test/resources/CignaTestRunner.xml" />
-        <option value="$PROJECT_DIR$/Common/src/main/java/Base/Config.java" />
         <option value="$PROJECT_DIR$/UnitedHealthcare/src/test/java/uhcSearch/Home.java" />
         <option value="$PROJECT_DIR$/UnitedHealthcare/src/test/java/uhcSearch/IndividualsandFamilies.java" />
         <option value="$PROJECT_DIR$/UnitedHealthcare/src/test/java/uhcSearch/employers.java" />
@@ -198,13 +206,16 @@
         <option value="$PROJECT_DIR$/UnitedHealthcare/src/test/java/uhcEmployers/Employers.java" />
         <option value="$PROJECT_DIR$/UnitedHealthcare/src/test/java/uhcMedicare/medicare.java" />
         <option value="$PROJECT_DIR$/UnitedHealthcare/src/test/java/uhcFindaDoctor/findadoctor.java" />
-        <option value="$PROJECT_DIR$/Common/src/main/java/utility/ExtentReport/ApplicationLog.java" />
         <option value="$PROJECT_DIR$/UnitedHealthcare/src/main/java/uhcHome/Home.java" />
-        <option value="$PROJECT_DIR$/UnitedHealthcare/src/test/java/uhcSearch/uhcLogin.java" />
-        <option value="$PROJECT_DIR$/UnitedHealthcare/src/test/resources/UhcTestXmlRunner.xml" />
         <option value="$PROJECT_DIR$/UnitedHealthcare/src/test/java/Home/home.java" />
-        <option value="$PROJECT_DIR$/UnitedHealthcare/src/main/java/uhcHomePage/HomePage.java" />
+        <option value="$PROJECT_DIR$/UnitedHealthcare/src/main/java/uhcIndividualsandFamilies/individualsandfamilies.java" />
         <option value="$PROJECT_DIR$/UnitedHealthcare/src/test/java/employers/searchEmployers.java" />
+        <option value="$PROJECT_DIR$/UnitedHealthcare/src/main/java/uhcEmployers/Employers.java" />
+        <option value="$PROJECT_DIR$/UnitedHealthcare/src/main/java/uhcHomePage/HomePage.java" />
+        <option value="$PROJECT_DIR$/UnitedHealthcare/src/test/java/uhcSearch/uhcLogin.java" />
+        <option value="$PROJECT_DIR$/Common/src/main/java/utility/ExtentReport/ApplicationLog.java" />
+        <option value="$PROJECT_DIR$/UnitedHealthcare/src/test/resources/UhcTestXmlRunner.xml" />
+        <option value="$PROJECT_DIR$/Common/src/main/java/Base/Config.java" />
       </list>
     </option>
   </component>
@@ -256,11 +267,12 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-69" />
-    <option name="y" value="23" />
+    <option name="x" value="10" />
+    <option name="y" value="238" />
     <option name="width" value="1440" />
-    <option name="height" value="821" />
+    <option name="height" value="815" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -276,8 +288,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -494,7 +504,67 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="uhcIndividualsandFamilies" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HeatlhCare" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HeatlhCare" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UnitedHealthcare" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="uhcHomePage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HeatlhCare" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HeatlhCare" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UnitedHealthcare" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uhcHome" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -542,12 +612,162 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uhcEmployers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HeatlhCare" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HeatlhCare" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UnitedHealthcare" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="Extent-Report" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HeatlhCare" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HeatlhCare" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HeatlhCare" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HeatlhCare" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HeatlhCare" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HeatlhCare" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HeatlhCare" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HeatlhCare" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ExtentReport" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HeatlhCare" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HeatlhCare" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Base" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -1315,9 +1535,9 @@
     </list>
     <recent_temporary>
       <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="TestNG./Users/smhoque/IdeaProjects/HeatlhCare/UnitedHealthcare/resources/UhcTestXmlRunner.xml" />
-        <item index="1" class="java.lang.String" itemvalue="TestNG.Regitration" />
-        <item index="2" class="java.lang.String" itemvalue="TestNG.uhcLogin" />
+        <item index="0" class="java.lang.String" itemvalue="TestNG.uhcLogin" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG./Users/smhoque/IdeaProjects/HeatlhCare/UnitedHealthcare/resources/UhcTestXmlRunner.xml" />
+        <item index="2" class="java.lang.String" itemvalue="TestNG.Regitration" />
       </list>
     </recent_temporary>
   </component>
@@ -1356,44 +1576,47 @@
       <workItem from="1495061765559" duration="4374000" />
       <workItem from="1495149317066" duration="3920000" />
       <workItem from="1495208593277" duration="290000" />
-      <workItem from="1495214625479" duration="4898000" />
+      <workItem from="1495214625479" duration="7068000" />
+      <workItem from="1495223191382" duration="449000" />
+      <workItem from="1495223715501" duration="957000" />
+      <workItem from="1495228685615" duration="5024000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="_Users_smhoque_IdeaProjects_HeatlhCare_UnitedHealthcare_src_test_resources_UhcTestXmlRunner_xml - 2017.05.19 at 13h 34m 45s.xml">
+    <history-entry file="_Users_smhoque_IdeaProjects_HeatlhCare_UnitedHealthcare_src_test_resources_UhcTestXmlRunner_xml - 2017.05.19 at 17h 32m 06s.xml">
       <configuration name="/Users/smhoque/IdeaProjects/HeatlhCare/UnitedHealthcare/src/test/resources/UhcTestXmlRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_smhoque_IdeaProjects_HeatlhCare_UnitedHealthcare_src_test_resources_UhcTestXmlRunner_xml - 2017.05.19 at 13h 34m 54s.xml">
+    <history-entry file="_Users_smhoque_IdeaProjects_HeatlhCare_UnitedHealthcare_src_test_resources_UhcTestXmlRunner_xml - 2017.05.19 at 17h 35m 35s.xml">
       <configuration name="/Users/smhoque/IdeaProjects/HeatlhCare/UnitedHealthcare/src/test/resources/UhcTestXmlRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_smhoque_IdeaProjects_HeatlhCare_UnitedHealthcare_src_test_resources_UhcTestXmlRunner_xml - 2017.05.19 at 13h 36m 00s.xml">
+    <history-entry file="_Users_smhoque_IdeaProjects_HeatlhCare_UnitedHealthcare_src_test_resources_UhcTestXmlRunner_xml - 2017.05.19 at 17h 36m 17s.xml">
       <configuration name="/Users/smhoque/IdeaProjects/HeatlhCare/UnitedHealthcare/src/test/resources/UhcTestXmlRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_smhoque_IdeaProjects_HeatlhCare_UnitedHealthcare_src_test_resources_UhcTestXmlRunner_xml - 2017.05.19 at 13h 36m 33s.xml">
+    <history-entry file="_Users_smhoque_IdeaProjects_HeatlhCare_UnitedHealthcare_src_test_resources_UhcTestXmlRunner_xml - 2017.05.19 at 17h 36m 22s.xml">
       <configuration name="/Users/smhoque/IdeaProjects/HeatlhCare/UnitedHealthcare/src/test/resources/UhcTestXmlRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_smhoque_IdeaProjects_HeatlhCare_UnitedHealthcare_src_test_resources_UhcTestXmlRunner_xml - 2017.05.19 at 13h 42m 47s.xml">
+    <history-entry file="_Users_smhoque_IdeaProjects_HeatlhCare_UnitedHealthcare_src_test_resources_UhcTestXmlRunner_xml - 2017.05.19 at 17h 36m 35s.xml">
       <configuration name="/Users/smhoque/IdeaProjects/HeatlhCare/UnitedHealthcare/src/test/resources/UhcTestXmlRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_smhoque_IdeaProjects_HeatlhCare_UnitedHealthcare_src_test_resources_UhcTestXmlRunner_xml - 2017.05.19 at 13h 44m 07s.xml">
+    <history-entry file="_Users_smhoque_IdeaProjects_HeatlhCare_UnitedHealthcare_src_test_resources_UhcTestXmlRunner_xml - 2017.05.19 at 17h 37m 01s.xml">
       <configuration name="/Users/smhoque/IdeaProjects/HeatlhCare/UnitedHealthcare/src/test/resources/UhcTestXmlRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_smhoque_IdeaProjects_HeatlhCare_UnitedHealthcare_src_test_resources_UhcTestXmlRunner_xml - 2017.05.19 at 13h 45m 15s.xml">
+    <history-entry file="_Users_smhoque_IdeaProjects_HeatlhCare_UnitedHealthcare_src_test_resources_UhcTestXmlRunner_xml - 2017.05.19 at 17h 37m 54s.xml">
       <configuration name="/Users/smhoque/IdeaProjects/HeatlhCare/UnitedHealthcare/src/test/resources/UhcTestXmlRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_smhoque_IdeaProjects_HeatlhCare_UnitedHealthcare_src_test_resources_UhcTestXmlRunner_xml - 2017.05.19 at 13h 46m 05s.xml">
+    <history-entry file="_Users_smhoque_IdeaProjects_HeatlhCare_UnitedHealthcare_src_test_resources_UhcTestXmlRunner_xml - 2017.05.19 at 18h 09m 27s.xml">
       <configuration name="/Users/smhoque/IdeaProjects/HeatlhCare/UnitedHealthcare/src/test/resources/UhcTestXmlRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_smhoque_IdeaProjects_HeatlhCare_UnitedHealthcare_src_test_resources_UhcTestXmlRunner_xml - 2017.05.19 at 14h 49m 44s.xml">
+    <history-entry file="_Users_smhoque_IdeaProjects_HeatlhCare_UnitedHealthcare_src_test_resources_UhcTestXmlRunner_xml - 2017.05.19 at 18h 14m 59s.xml">
       <configuration name="/Users/smhoque/IdeaProjects/HeatlhCare/UnitedHealthcare/src/test/resources/UhcTestXmlRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_smhoque_IdeaProjects_HeatlhCare_UnitedHealthcare_src_test_resources_UhcTestXmlRunner_xml - 2017.05.19 at 14h 57m 49s.xml">
+    <history-entry file="_Users_smhoque_IdeaProjects_HeatlhCare_UnitedHealthcare_src_test_resources_UhcTestXmlRunner_xml - 2017.05.19 at 18h 25m 38s.xml">
       <configuration name="/Users/smhoque/IdeaProjects/HeatlhCare/UnitedHealthcare/src/test/resources/UhcTestXmlRunner.xml" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84421000" />
+    <option name="totallyTimeSpent" value="93021000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1405,7 +1628,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-69" y="23" width="1440" height="821" extended-state="0" />
+    <frame x="10" y="238" width="1440" height="815" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1416,26 +1639,27 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="7.153076E-4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37037036" sideWeight="0.8891273" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="7.153076E-4" sideWeight="0.48547718" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34439835" sideWeight="0.52575105" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12975098" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25751072" sideWeight="0.86619717" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19098713" sideWeight="0.86619717" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14310445" sideWeight="0.13380282" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.016438356" sideWeight="0.45208332" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.66941017" sideWeight="0.47424892" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="7.153076E-4" sideWeight="0.51452285" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.49668875" sideWeight="0.16111112" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1488,27 +1712,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ObamaCare/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="26" lean-forward="false" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Cigna/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="26" lean-forward="false" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UnitedHealthcare/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="10" lean-forward="false" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -1677,13 +1880,6 @@
     <entry file="file://$PROJECT_DIR$/UnitedHealthcare/src/test/java/uhcSearch/employers.java" />
     <entry file="file://$PROJECT_DIR$/UnitedHealthcare/src/test/java/uhcSearch/medicar.java" />
     <entry file="file://$PROJECT_DIR$/UnitedHealthcare/src/test/java/uhcSearch/findAdoctor.java" />
-    <entry file="file://$PROJECT_DIR$/UnitedHealthcare/src/main/java/uhcIndividualsandFamilies/individualsandfamilies.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="50" lean-forward="false" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/UnitedHealthcare/src/main/java/uhcMedicare/medicare.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -1691,70 +1887,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UnitedHealthcare/src/main/java/uhcEmployers/Employers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="37" lean-forward="false" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Common/src/main/java/Base/Config.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1620">
-          <caret line="110" column="16" lean-forward="false" selection-start-line="110" selection-start-column="16" selection-end-line="110" selection-end-column="16" />
-          <folding>
-            <element signature="e#3162#3163#0" expanded="false" />
-            <element signature="e#3192#3193#0" expanded="false" />
-            <element signature="e#8556#8557#0" expanded="false" />
-            <element signature="e#8625#8626#0" expanded="false" />
-            <element signature="e#8672#8673#0" expanded="false" />
-            <element signature="e#8733#8734#0" expanded="false" />
-            <element signature="e#9954#9955#0" expanded="false" />
-            <element signature="e#10021#10022#0" expanded="false" />
-            <element signature="e#10069#10070#0" expanded="false" />
-            <element signature="e#10130#10131#0" expanded="false" />
-            <element signature="e#10189#10190#0" expanded="false" />
-            <element signature="e#10264#10265#0" expanded="false" />
-            <element signature="e#10476#10477#0" expanded="false" />
-            <element signature="e#10545#10546#0" expanded="false" />
-            <element signature="e#10594#10595#0" expanded="false" />
-            <element signature="e#10674#10675#0" expanded="false" />
-            <element signature="e#10724#10725#0" expanded="false" />
-            <element signature="e#10791#10792#0" expanded="false" />
-            <element signature="e#11940#11941#0" expanded="false" />
-            <element signature="e#11980#11981#0" expanded="false" />
-            <element signature="e#12015#12016#0" expanded="false" />
-            <element signature="e#12058#12059#0" expanded="false" />
-            <element signature="e#12397#12398#0" expanded="false" />
-            <element signature="e#12464#12465#0" expanded="false" />
-            <element signature="e#14552#14553#0" expanded="false" />
-            <element signature="e#14600#14601#0" expanded="false" />
-            <element signature="e#14639#14640#0" expanded="false" />
-            <element signature="e#14689#14690#0" expanded="false" />
-            <element signature="e#16630#16631#0" expanded="false" />
-            <element signature="e#16697#16698#0" expanded="false" />
-            <element signature="e#16740#16741#0" expanded="false" />
-            <element signature="e#16820#16821#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UnitedHealthcare/src/main/java/uhcHome/Home.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Common/src/main/java/utility/ExtentReport/ExtentTestManager.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#857#858#0" expanded="false" />
-            <element signature="e#903#904#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1762,9 +1898,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1772,13 +1905,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#519#520#0" expanded="false" />
-            <element signature="e#562#563#0" expanded="false" />
-            <element signature="e#646#647#0" expanded="false" />
-            <element signature="e#695#696#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1786,18 +1912,28 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="9" column="3" lean-forward="false" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1144#1145#0" expanded="false" />
-            <element signature="e#1191#1192#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Common/src/main/java/utility/ExtentReport/ApplicationLog.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="14085">
+          <caret line="994" column="0" lean-forward="false" selection-start-line="994" selection-start-column="0" selection-end-line="994" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.4.0/selenium-remote-driver-3.4.0.jar!/org/openqa/selenium/remote/DesiredCapabilities.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1890">
+          <caret line="147" column="0" lean-forward="false" selection-start-line="147" selection-start-column="0" selection-end-line="147" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.11/testng-6.11.jar!/org/testng/internal/Invoker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="161" column="0" lean-forward="false" selection-start-line="161" selection-start-column="0" selection-end-line="161" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1810,56 +1946,83 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UnitedHealthcare/src/test/resources/UhcTestXmlRunner.xml">
+    <entry file="file://$PROJECT_DIR$/UnitedHealthcare/src/main/java/uhcIndividualsandFamilies/individualsandfamilies.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="22" column="46" lean-forward="true" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/UnitedHealthcare/src/test/java/uhcSearch/uhcLogin.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        <state relative-caret-position="105">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UnitedHealthcare/src/main/java/uhcHome/Home.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UnitedHealthcare/src/main/java/uhcEmployers/Employers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/UnitedHealthcare/src/main/java/uhcHomePage/HomePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="636">
-          <caret line="64" column="1" lean-forward="true" selection-start-line="64" selection-start-column="1" selection-end-line="64" selection-end-column="1" />
-          <folding>
-            <element signature="e#932#933#0" expanded="true" />
-            <element signature="e#959#960#0" expanded="true" />
-            <element signature="e#1019#1020#0" expanded="true" />
-            <element signature="e#1064#1065#0" expanded="true" />
-            <element signature="e#1111#1112#0" expanded="true" />
-            <element signature="e#1143#1144#0" expanded="true" />
-            <element signature="e#1189#1190#0" expanded="true" />
-            <element signature="e#1220#1221#0" expanded="true" />
-            <element signature="e#1269#1270#0" expanded="true" />
-            <element signature="e#1303#1304#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UnitedHealthcare/src/test/java/Home/home.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="14" column="2" lean-forward="true" selection-start-line="14" selection-start-column="2" selection-end-line="20" selection-end-column="5" />
+        <state relative-caret-position="272">
+          <caret line="48" column="3" lean-forward="false" selection-start-line="48" selection-start-column="3" selection-end-line="51" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/UnitedHealthcare/src/test/java/employers/searchEmployers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="105">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UnitedHealthcare/src/test/java/Home/home.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UnitedHealthcare/src/test/resources/UhcTestXmlRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="22" column="51" lean-forward="false" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Common/src/main/java/utility/ExtentReport/ApplicationLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Common/src/main/java/Base/Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="45" column="48" lean-forward="false" selection-start-line="45" selection-start-column="48" selection-end-line="45" selection-end-column="48" />
+          <folding />
         </state>
       </provider>
     </entry>

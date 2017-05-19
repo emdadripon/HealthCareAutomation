@@ -36,7 +36,7 @@ import java.util.List;
 import java.util.concurrent.TimeUnit;
 
 /**
- * Created by smhoque on 5/7/17.
+ * Created by smhoque on 5/19/17.
  */
 public class Config {
     public static ExtentReports extent;
@@ -102,9 +102,9 @@ public class Config {
 
     public WebDriver driver = null;
     private String saucelabs_username = "emdadripon";
-    private String browserstack_username = "emdadripon1";
+    private String browserstack_username = "ripon6";
     private String saucelabs_accesskey = "1158f392-93e2-4bf9-9fce-612f12e4d6ef";
-    private String browserstack_accesskey = "kgp8kKjx24xGnX9ei7Wk";
+    private String browserstack_accesskey = "gwRr6Ny8kMABsfU3pDe7";
 
     @Parameters({"useCloudEnv", "cloudEnvName", "os", "os_version", "browserName", "browserVersion", "url"})
     @BeforeMethod

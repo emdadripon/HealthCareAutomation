@@ -1,7 +1,7 @@
 package utility.ExtentReport;
 
 /**
- * Created by mrahman on 5/14/17.
+ * Created by ripon on 5/20/17.
  */
 public class ApplicationLog {
     public static void epicLogger(String epic){

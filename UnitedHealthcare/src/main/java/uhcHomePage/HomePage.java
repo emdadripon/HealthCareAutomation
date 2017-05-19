@@ -42,11 +42,15 @@ public class HomePage extends Config {
     public static WebElement getFindAdoctor() {
         return findAdoctor;
     }
-    public WebElement clickhomeWebElement() {
+    public WebElement gethome() {
         TestLogger.log(getClass().getSimpleName() + ": " + converToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         return home;
     }
-    public WebElement IclickndividualsANDfamilies() {
+    public WebElement clickhome() {
+        TestLogger.log(getClass().getSimpleName() + ": " + converToString(new Object(){}.getClass().getEnclosingMethod().getName()));
+        return home;
+    }
+    public WebElement clickndividualsANDfamilies() {
         TestLogger.log(getClass().getSimpleName() + ": " + converToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         return getIndividualsANDfamilies();
     }

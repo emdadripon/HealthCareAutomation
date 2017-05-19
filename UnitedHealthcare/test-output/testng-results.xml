@@ -5,12 +5,12 @@
       <![CDATA[Extent Report directory: /Users/smhoque/IdeaProjects/HeatlhCare/UnitedHealthcare/test-output/html]]>
     </line>
   </reporter-output>
-  <suite name="Default Suite" duration-ms="491" started-at="2017-05-17T21:54:19Z" finished-at="2017-05-17T21:54:19Z">
+  <suite name="Default Suite" duration-ms="511" started-at="2017-05-19T20:13:51Z" finished-at="2017-05-19T20:13:51Z">
     <groups>
     </groups>
-    <test name="HeatlhCare" duration-ms="491" started-at="2017-05-17T21:54:19Z" finished-at="2017-05-17T21:54:19Z">
+    <test name="HeatlhCare" duration-ms="511" started-at="2017-05-19T20:13:51Z" finished-at="2017-05-19T20:13:51Z">
       <class name="uhcSearch.uhcLogin">
-        <test-method status="PASS" signature="extentSetup(org.testng.ITestContext)[pri:0, instance:uhcSearch.uhcLogin@6aaa5eb0]" name="extentSetup" is-config="true" duration-ms="748" started-at="2017-05-17T17:54:18Z" finished-at="2017-05-17T17:54:19Z">
+        <test-method status="PASS" signature="extentSetup(org.testng.ITestContext)[pri:0, instance:uhcSearch.uhcLogin@6aaa5eb0]" name="extentSetup" is-config="true" duration-ms="702" started-at="2017-05-19T16:13:50Z" finished-at="2017-05-19T16:13:51Z">
           <params>
             <param index="0">
               <value>
@@ -24,7 +24,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- extentSetup -->
-        <test-method status="FAIL" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:uhcSearch.uhcLogin@6aaa5eb0]" name="setUp" is-config="true" duration-ms="409" started-at="2017-05-17T17:54:19Z" finished-at="2017-05-17T17:54:19Z">
+        <test-method status="FAIL" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:uhcSearch.uhcLogin@6aaa5eb0]" name="setUp" is-config="true" duration-ms="435" started-at="2017-05-19T16:13:51Z" finished-at="2017-05-19T16:13:51Z">
           <params>
             <param index="0">
               <value>
@@ -111,11 +111,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="SKIP" signature="startExtent(java.lang.reflect.Method)[pri:0, instance:uhcSearch.uhcLogin@6aaa5eb0]" name="startExtent" is-config="true" duration-ms="0" started-at="2017-05-17T17:54:19Z" finished-at="2017-05-17T17:54:19Z">
+        <test-method status="SKIP" signature="startExtent(java.lang.reflect.Method)[pri:0, instance:uhcSearch.uhcLogin@6aaa5eb0]" name="startExtent" is-config="true" duration-ms="0" started-at="2017-05-19T16:13:51Z" finished-at="2017-05-19T16:13:51Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startExtent -->
-        <test-method status="SKIP" signature="search()[pri:0, instance:uhcSearch.uhcLogin@6aaa5eb0]" name="search" duration-ms="0" started-at="2017-05-17T17:54:19Z" finished-at="2017-05-17T17:54:19Z">
+        <test-method status="SKIP" signature="search()[pri:0, instance:uhcSearch.uhcLogin@6aaa5eb0]" name="search" duration-ms="0" started-at="2017-05-19T16:13:51Z" finished-at="2017-05-19T16:13:51Z">
           <exception class="java.lang.IllegalStateException">
             <message>
               <![CDATA[The driver is not executable: /Users/smhoque/IdeaProjects/HeatlhCare/UnitedHealthcare/../Common/driver/geckodriver.exe]]>
@@ -165,7 +165,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- search -->
-        <test-method status="SKIP" signature="generateReport()[pri:0, instance:uhcSearch.uhcLogin@6aaa5eb0]" name="generateReport" is-config="true" duration-ms="0" started-at="2017-05-17T17:54:19Z" finished-at="2017-05-17T17:54:19Z">
+        <test-method status="SKIP" signature="generateReport()[pri:0, instance:uhcSearch.uhcLogin@6aaa5eb0]" name="generateReport" is-config="true" duration-ms="0" started-at="2017-05-19T16:13:51Z" finished-at="2017-05-19T16:13:51Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- generateReport -->
